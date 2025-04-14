@@ -16,7 +16,7 @@
 </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/garagoz](https://github.com/garagoz)  
-- 💬 Ask me about **DevOps & Cloud DevOps**  
+- 💬 Ask me about **Software and DevOps Engineering**  
 - 📫 How to reach me **atorayew@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
