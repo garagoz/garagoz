@@ -41,7 +41,7 @@
   <img src="https://www.vectorlogo.zone/logos/apache_tomcat/apache_tomcat-icon.svg" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21~bgwhite.svg" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg" width="40" height="40"/>
 </p>
 
